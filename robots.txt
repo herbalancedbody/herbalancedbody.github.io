@@ -17,4 +17,4 @@ Disallow: /staging/
 Disallow: /*.json$
 
 # Sitemap location
-Sitemap: https://herbalancedbody.com/sitemap.xml
+Sitemap: https://herbalancedbody.netlify.app/sitemap.xml
