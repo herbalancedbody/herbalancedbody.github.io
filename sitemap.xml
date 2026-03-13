@@ -9,29 +9,29 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
        CORE SITE STRUCTURE
        ===================================== -->
 
-  <!-- Homepage (Primary Authority Page) -->
+  <!-- Homepage -->
   <url>
     <loc>https://herbalancedbody.github.io/</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
 
-  <!-- Blog Hub (Content Authority Hub) -->
+  <!-- Blog Index -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
 
   <!-- =====================================
-       PILLAR CONTENT (High RPM Articles)
+       PILLAR CONTENT
        ===================================== -->
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/beginners-guide-weight-loss-for-women.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
@@ -45,46 +45,54 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/weight-loss-after-40-for-women.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/home-workout-plan-for-women.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- NEW ARTICLE: Cortisol Cluster -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/cortisol-belly-fat-explained.html</loc>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
 
   <!-- =====================================
-       TRUST & BRAND PAGES (E‑E‑A‑T SUPPORT)
+       TRUST & BRAND PAGES
        ===================================== -->
 
   <url>
     <loc>https://herbalancedbody.github.io/about.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.70</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/contact.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.65</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/privacy.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/disclaimer.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
