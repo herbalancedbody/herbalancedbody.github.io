@@ -668,14 +668,25 @@ Learn How to Lower Cortisol →
 </main>
 
 <footer class="footer">
-    <!-- Your standard footer code here -->
-    <div class="container">
-        <p>&copy; 2026 Her Balanced Body. All rights reserved.</p>
-    </div>
+<div class="container">
+<p>&copy; 2026 Her Balanced Body. All rights reserved.</p>
+</div>
 </footer>
 
 <script>
-// Your active scroll TOC highlight script here
+const sections=document.querySelectorAll("article h2, article h3");
+const navLinks=document.querySelectorAll(".toc-list a");
+window.addEventListener("scroll",()=>{
+let current="";
+sections.forEach(section=>{
+const sectionTop=section.offsetTop-140;
+if(pageYOffset>=sectionTop){current=section.getAttribute("id");}
+});
+navLinks.forEach(link=>{
+link.classList.remove("active");
+if(link.getAttribute("href")==="#"+current){link.classList.add("active");}
+});
+});
 </script>
 
 </body>
