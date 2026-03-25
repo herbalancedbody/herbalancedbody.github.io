@@ -12,7 +12,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Homepage (Primary Authority Page) -->
   <url>
     <loc>https://herbalancedbody.github.io/</loc>
-    <lastmod>2026-03-20</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
@@ -20,7 +20,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Blog Index (Content Hub) -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/</loc>
-    <lastmod>2026-03-20</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -38,7 +38,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -53,6 +53,13 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/home-workouts.html</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/category/healthy-habits-metabolism.html</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -106,6 +113,13 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://herbalancedbody.github.io/blog/7-day-beginner-workout-plan-for-women.html</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/perimenopause-weight-gain-explained.html</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
