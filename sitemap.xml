@@ -12,7 +12,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Homepage (Primary Authority Page) -->
   <url>
     <loc>https://herbalancedbody.github.io/</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
@@ -20,7 +20,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Blog Index (Content Hub) -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -45,7 +45,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/beginner-friendly.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -59,7 +59,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/healthy-habits-metabolism.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -124,55 +124,62 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/walking-for-weight-loss-for-women.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
   <!-- =====================================
        TRUST & BRAND PAGES
        ===================================== -->
 
   <url>
     <loc>https://herbalancedbody.github.io/about.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.70</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/contact.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.65</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/privacy-policy.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/medical-disclaimer.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/affiliate-disclosure.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/terms-and-conditions.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/editorial-transparency.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
