@@ -12,7 +12,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Homepage (Primary Authority Page) -->
   <url>
     <loc>https://herbalancedbody.github.io/</loc>
-    <lastmod>2026-04-25</lastmod>
+    <lastmod>[2026-05-02]</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
@@ -20,7 +20,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Blog Index (Content Hub) -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/</loc>
-    <lastmod>2026-04-25</lastmod>
+    <lastmod>[2026-05-02]</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -29,17 +29,24 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
        CATEGORY PAGES
        ===================================== -->
 
-  <!-- Primary Category — Updated April 25, 2026 -->
+  <!-- Primary Category — Updated [2026-05-02] -->
   <url>
-    <loc>https://herbalancedbody.github.io/blog/category/hormones-belly-fat.html</loc>
+    <loc>https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
-  <!-- Secondary Category — Updated April 25, 2026 -->
+  <!-- Secondary Category — Updated [2026-05-02] -->
   <url>
-    <loc>https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html</loc>
+    <loc>https://herbalancedbody.github.io/blog/category/home-workouts.html</loc>
+    <lastmod>[YYYY-MM-DD]</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/category/hormones-belly-fat.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
@@ -48,13 +55,6 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/beginner-friendly.html</loc>
     <lastmod>2026-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/category/home-workouts.html</loc>
-    <lastmod>2026-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -90,7 +90,16 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <!-- =====================================
        PILLAR CONTENT (BLOG POSTS)
+       Ordered newest to oldest
        ===================================== -->
+
+  <!-- Article 19 — Published [2026-05-02] -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/best-time-to-exercise-for-women-over-40.html</loc>
+    <lastmod>[YYYY-MM-DD]</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
 
   <!-- Article 18 — Published April 25, 2026 -->
   <url>
