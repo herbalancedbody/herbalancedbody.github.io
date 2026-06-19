@@ -33,6 +33,11 @@
 - Updated category page `blog/category/healthy-habits-metabolism.html` with real article card
 - Commit: `f2dea48`
 
+### Add missing article and resolve 404
+- Created `blog/simple-meal-prep-strategies-for-busy-women.html` with canonical article format, schema, and 3000+ word content
+- Replaced missing-link cause for `https://herbalancedbody.github.io/blog/simple-meal-prep-strategies-for-busy-women.html`
+- Commit: `c392a61`
+
 ## Notes
 - AdSense slot-ID replacement remains pending user approval
 - Favicon reference fixes completed but not yet committed
