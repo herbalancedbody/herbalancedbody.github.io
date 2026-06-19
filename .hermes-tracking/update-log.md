@@ -36,9 +36,15 @@
 ### Add missing article and resolve 404
 - Created `blog/simple-meal-prep-strategies-for-busy-women.html` with canonical article format, schema, and 3000+ word content
 - Replaced missing-link cause for `https://herbalancedbody.github.io/blog/simple-meal-prep-strategies-for-busy-women.html`
-- Commit: `c392a61`
+- Commits: `c392a61`, `a8723b5`
 
-## Notes
+### Normalize new article TOC/schema/footer and lock format rules
+- Fixed missing/wrong Table of Contents sidebar on new articles
+- Fixed duplicate FAQ blocks across new articles
+- Fixed stray orphaned footer/markup between `</main>` and `<footer>`
+- Updated `.hermes-tracking/default-format-rules.md`
+- Commit: `a5bc40f`
+
+## Pending
 - AdSense slot-ID replacement remains pending user approval
-- Favicon reference fixes completed but not yet committed
 - Windows scheduled task creation blocked by quoting/runtime issues
