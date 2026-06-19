@@ -1,13 +1,39 @@
-# HerBalancedBody Update Log
+# Her Balanced Body — Update Log
 
-> All repo-level changes are logged here datewise with timestamps.
+## 2026-06-19
 
-- 2026-06-19 21:XX — Set up `.hermes-tracking/` with todo tracker + update log; created `.gitignore`.
-- 2026-06-19 23:XX — Verified 5 post word counts after expansion:
-  - `home-workout-plan-for-women.html`: 3015 words
-  - `7-day-beginner-workout-plan-for-women.html`: 3102 words
-  - `why-women-struggle-to-lose-belly-fat.html`: 3326 words
-  - `insulin-resistance-in-women-explained.html`: 3418 words
-  - `beginners-guide-weight-loss-for-women.html`: 3518 words
-- 2026-06-19 23:XX — Added new category articles and updated category card links.
-- 2026-06-19 23:XX — Pushed branch `main` to `origin`.
+### Refresh category pages with article portfolio and planned sections
+- Patched category pages with article grids and planned section coverage
+- Commit: `4222116`
+
+### Expand category coverage and post support sections
+- Expanded 8 original short posts to 3000+ words
+- Commit: `3753bb0`
+
+### Maintenance backlog and tracking refresh
+- Created `.hermes-tracking/maintenance-backlog.md`
+- Refreshed `.hermes-tracking/todo-tracker.md`
+- Commit: `eb678b1`
+
+### Create maintenance backlog and refresh tracker
+- Added maintenance audit script `.hermes-tracking/maintenance-audit.sh`
+- Commit: prior to `ed17484`
+
+### Format standardization for new and existing pages
+- Extracted canonical article format from `blog/home-workout-plan-for-women.html`
+- Extracted canonical category format from `blog/category/weight-loss-after-40.html`
+- Stored rules in `.hermes-tracking/default-format-rules.md`
+- Normalized and expanded 12 new category articles to 3000+ words
+- Replaced remaining “Coming Soon” placeholders in category pages where needed
+- Commit: `968ec76`
+
+### Format new articles and link category pages
+- Reformatted all new article pages to match existing published article format
+- Verified word counts, metadata, schema, related reading, FAQ, and disclaimer coverage
+- Updated category page `blog/category/healthy-habits-metabolism.html` with real article card
+- Commit: `f2dea48`
+
+## Notes
+- AdSense slot-ID replacement remains pending user approval
+- Favicon reference fixes completed but not yet committed
+- Windows scheduled task creation blocked by quoting/runtime issues
