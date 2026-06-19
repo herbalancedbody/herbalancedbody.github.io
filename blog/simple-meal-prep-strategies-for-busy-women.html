@@ -491,6 +491,30 @@
         </p>
 
 </article>
+      <aside class="post-sidebar">
+        <div class="sticky">
+          <div class="sidebar-widget">
+            <h4>Table of Contents</h4>
+            <ul class="toc-list">
+              <li><a href="#meal-prep-fundamentals">Meal Prep Fundamentals</a></li>
+              <li><a href="#time-efficient-recipes">Time-Efficient Recipes</a></li>
+              <li><a href="#storage-and-reheating">Storage and Reheating</a></li>
+              <li><a href="#weekly-workflow">Weekly Workflow</a></li>
+              <li><a href="#advanced-prep-techniques">Advanced Prep Techniques</a></li>
+              <li><a href="#meal-prep-tools">Meal Prep Tools</a></li>
+              <li><a href="#proteins-and-plant-options">Proteins and Plant-Based Options</a></li>
+              <li><a href="#vegetable-forward-prep">Vegetable-Forward Prep</a></li>
+              <li><a href="#meal-prep-shopping">Meal Prep Shopping</a></li>
+              <li><a href="#eating-out-compatibility">Meal Prep and Eating Out</a></li>
+              <li><a href="#long-term-maintenance">Long-Term Maintenance</a></li>
+              <li><a href="#related-reading">Related Reading</a></li>
+              <li><a href="#faq">FAQ</a></li>
+              <li><a href="#final-thoughts">Final Thoughts</a></li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+
     </div>
   </section>
 
@@ -524,5 +548,28 @@
   </div>
 </footer>
 
+
+<script>
+  const sections = document.querySelectorAll(".post-body h2[id], .post-body h3[id]");
+  const navLinks = document.querySelectorAll(".toc-list a");
+
+  window.addEventListener("scroll", () => {
+    let current = "";
+
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - 140;
+      if (window.pageYOffset >= sectionTop) {
+        current = section.getAttribute("id");
+      }
+    });
+
+    navLinks.forEach(link => {
+      link.classList.remove("active");
+      if (link.getAttribute("href") === "#" + current) {
+        link.classList.add("active");
+      }
+    });
+  });
+</script>
 </body>
 </html>
