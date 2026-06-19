@@ -45,6 +45,11 @@
 - Updated `.hermes-tracking/default-format-rules.md`
 - Commit: `a5bc40f`
 
+### Fix broken TOC and footer on daily-stress article and all new articles
+- Corrected wrong canonical TOC links on `daily-stress-management-habits-for-women.html`
+- Removed stray content/broken footer after `</html>` across new articles
+- Commit: pending push
+
 ## Pending
 - AdSense slot-ID replacement remains pending user approval
 - Windows scheduled task creation blocked by quoting/runtime issues
