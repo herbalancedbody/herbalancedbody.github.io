@@ -9,18 +9,16 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
        CORE SITE STRUCTURE
        ===================================== -->
 
-  <!-- Homepage (Primary Authority Page) -->
   <url>
     <loc>https://herbalancedbody.github.io/</loc>
-    <lastmod>[2026-05-02]</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
 
-  <!-- Blog Index (Content Hub) -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/</loc>
-    <lastmod>[2026-05-02]</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -29,61 +27,58 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
        CATEGORY PAGES
        ===================================== -->
 
-  <!-- Primary Category — Updated [2026-05-02] -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Secondary Category — Updated [2026-05-02] -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/category/home-workouts.html</loc>
-    <lastmod>[YYYY-MM-DD]</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/category/hormones-belly-fat.html</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/beginner-friendly.html</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/category/emotional-eating-mindset.html</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/healthy-habits-metabolism.html</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- New Category Pages — Published April 25, 2026 -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/category/emotional-eating-mindset.html</loc>
-    <lastmod>2026-04-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://herbalancedbody.github.io/blog/category/sleep-and-recovery.html</loc>
-    <lastmod>2026-04-25</lastmod>
+    <loc>https://herbalancedbody.github.io/blog/category/home-workouts.html</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/category/hormones-belly-fat.html</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/nutrition-deep-dives.html</loc>
-    <lastmod>2026-04-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/category/sleep-and-recovery.html</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -93,15 +88,151 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
        Ordered newest to oldest
        ===================================== -->
 
-  <!-- Article 19 — Published [2026-05-02] -->
+  <!-- Article 1 — Last modified 2026-06-20 -->
   <url>
-    <loc>https://herbalancedbody.github.io/blog/best-time-to-exercise-for-women-over-40.html</loc>
-    <lastmod>[YYYY-MM-DD]</lastmod>
+    <loc>https://herbalancedbody.github.io/blog/balanced-plate-method-for-women.html</loc>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 18 — Published April 25, 2026 -->
+  <!-- Article 2 — Last modified 2026-06-20 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/why-women-struggle-to-lose-belly-fat.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 3 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/beginner-hormone-friendly-weight-loss-guide.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 4 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/beginners-guide-weight-loss-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 5 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/core-principles-of-weight-management-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 6 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/daily-stress-management-habits-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 7 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/home-workout-recovery-strategies-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 8 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/how-to-break-the-emotional-eating-cycle.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 9 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/how-to-start-weight-loss-after-40-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 10 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/metabolism-support-habits-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 11 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/mindful-eating-habits-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 12 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/optimizing-protein-intake-for-female-fat-loss.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 13 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/perimenopause-and-fat-loss-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 14 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/post-slug.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 15 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/simple-meal-prep-strategies-for-busy-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 16 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/sleep-and-recovery-support-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 17 — Last modified 2026-06-19 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/the-microbiome-and-weight-loss-for-women.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 18 — Last modified 2026-05-02 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/best-time-to-exercise-for-women-over-40.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 19 — Last modified 2026-04-25 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/estrogen-dominance-and-weight-gain.html</loc>
     <lastmod>2026-04-25</lastmod>
@@ -109,7 +240,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 17 — Published April 18, 2026 -->
+  <!-- Article 20 — Last modified 2026-04-18 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/morning-routine-for-weight-loss-for-women.html</loc>
     <lastmod>2026-04-18</lastmod>
@@ -117,7 +248,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 16 — Published April 11, 2026 -->
+  <!-- Article 21 — Last modified 2026-04-11 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/why-not-losing-weight-eating-healthy.html</loc>
     <lastmod>2026-04-11</lastmod>
@@ -125,7 +256,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 15 — Published April 10, 2026 -->
+  <!-- Article 22 — Last modified 2026-04-10 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/why-diets-stop-working-after-40.html</loc>
     <lastmod>2026-04-10</lastmod>
@@ -133,7 +264,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 14 — Published April 9, 2026 -->
+  <!-- Article 23 — Last modified 2026-04-09 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/best-strength-training-after-40.html</loc>
     <lastmod>2026-04-09</lastmod>
@@ -141,7 +272,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 13 — Published April 8, 2026 -->
+  <!-- Article 24 — Last modified 2026-04-08 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/metabolism-changes-after-40.html</loc>
     <lastmod>2026-04-08</lastmod>
@@ -149,7 +280,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 12 — Published April 7, 2026 -->
+  <!-- Article 25 — Last modified 2026-04-07 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/how-much-protein-women-over-40-need.html</loc>
     <lastmod>2026-04-07</lastmod>
@@ -157,7 +288,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 11 — Published April 6, 2026 -->
+  <!-- Article 26 — Last modified 2026-04-06 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/how-to-lower-cortisol-naturally.html</loc>
     <lastmod>2026-04-06</lastmod>
@@ -165,15 +296,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 10 — Published March 28, 2026 -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/balanced-plate-method-for-women.html</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Article 9 — Published March 27, 2026 -->
+  <!-- Article 27 — Last modified 2026-03-27 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/walking-for-weight-loss-for-women.html</loc>
     <lastmod>2026-03-27</lastmod>
@@ -181,7 +304,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 8 — Published March 25, 2026 -->
+  <!-- Article 28 — Last modified 2026-03-25 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/perimenopause-weight-gain-explained.html</loc>
     <lastmod>2026-03-25</lastmod>
@@ -189,7 +312,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 7 — Published March 20, 2026 -->
+  <!-- Article 29 — Last modified 2026-03-20 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/7-day-beginner-workout-plan-for-women.html</loc>
     <lastmod>2026-03-20</lastmod>
@@ -197,7 +320,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 6 — Published March 18, 2026 -->
+  <!-- Article 30 — Last modified 2026-03-18 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/insulin-resistance-in-women-explained.html</loc>
     <lastmod>2026-03-18</lastmod>
@@ -205,42 +328,26 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 5 — Published March 18, 2026 -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/home-workout-plan-for-women.html</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Article 4 — Published March 18, 2026 -->
+  <!-- Article 31 — Last modified 2026-03-13 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/cortisol-belly-fat-explained.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
-  <!-- Article 3 — Published March 18, 2026 -->
+  <!-- Article 32 — Last modified 2026-03-11 -->
+  <url>
+    <loc>https://herbalancedbody.github.io/blog/home-workout-plan-for-women.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 33 — Last modified 2026-03-11 -->
   <url>
     <loc>https://herbalancedbody.github.io/blog/weight-loss-after-40-for-women.html</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Article 2 — Published March 18, 2026 -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/why-women-struggle-to-lose-belly-fat.html</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Article 1 — Published March 18, 2026 -->
-  <url>
-    <loc>https://herbalancedbody.github.io/blog/beginners-guide-weight-loss-for-women.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
@@ -251,49 +358,49 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/about.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.70</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/contact.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/privacy-policy.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/medical-disclaimer.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/affiliate-disclosure.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/terms-and-conditions.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/editorial-transparency.html</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
