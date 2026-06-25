@@ -8,6 +8,13 @@
 - Existing ads: using placeholder slot IDs (`0000000000`–`0000000075`) and empty placeholders
 - **No real ads will serve until real ad unit slot IDs replace these placeholders**
 
+## Slot IDs received
+- `home`: `8455436014` ✅ applied to `index.html`
+- `blog-top`: pending
+- `blog-mid`: pending
+- `blog-sidebar`: pending
+- `static`: pending
+
 ## What needs to happen
 1. You create ad units in Google AdSense
 2. You give me the real slot IDs
