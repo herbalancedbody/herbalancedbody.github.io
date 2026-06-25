@@ -15,6 +15,13 @@
 - `blog-sidebar`: `9448953484` ✅ applied to all blog posts
 - `static`: `7689149251` ✅ applied to About and Contact pages
 
+## Remaining placeholders
+- `REPLACE_BLOG_LISTING` exists on:
+  - `blog/index.html`
+  - `blog/category/*.html` (9 category pages)
+
+You can either provide an existing slot ID to reuse here, or create a 6th ad unit in AdSense for the blog listing pages.
+
 ## What needs to happen
 1. You create ad units in Google AdSense
 2. You give me the real slot IDs
