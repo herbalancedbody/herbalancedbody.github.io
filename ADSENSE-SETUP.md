@@ -12,7 +12,7 @@
 - `home`: `8455436014` ✅ applied
 - `blog-top`: `5110674689` ✅ applied to all blog posts
 - `blog-mid`: `2384851686` ✅ applied to all blog posts
-- `blog-sidebar`: pending
+- `blog-sidebar`: `9448953484` ✅ applied to all blog posts
 - `static`: pending
 
 ## What needs to happen
