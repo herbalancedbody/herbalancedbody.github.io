@@ -9,9 +9,9 @@
 - **No real ads will serve until real ad unit slot IDs replace these placeholders**
 
 ## Slot IDs received
-- `home`: `8455436014` ✅ applied to `index.html`
-- `blog-top`: pending
-- `blog-mid`: pending
+- `home`: `8455436014` ✅ applied
+- `blog-top`: `5110674689` ✅ applied to all blog posts
+- `blog-mid`: `2384851686` ✅ applied to all blog posts
 - `blog-sidebar`: pending
 - `static`: pending
 
