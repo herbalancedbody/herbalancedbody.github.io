@@ -14,6 +14,7 @@
 - `blog-mid`: `2384851686` ✅ applied to all blog posts
 - `blog-sidebar`: `9448953484` ✅ applied to all blog posts
 - `static`: `7689149251` ✅ applied to About and Contact pages
+- `blog-listing`: `8750536794` ✅ applied to blog index and category pages
 
 ## Remaining placeholders
 - `REPLACE_BLOG_LISTING` exists on:
