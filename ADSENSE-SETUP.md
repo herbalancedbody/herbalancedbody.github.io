@@ -13,7 +13,7 @@
 - `blog-top`: `5110674689` ✅ applied to all blog posts
 - `blog-mid`: `2384851686` ✅ applied to all blog posts
 - `blog-sidebar`: `9448953484` ✅ applied to all blog posts
-- `static`: pending
+- `static`: `7689149251` ✅ applied to About and Contact pages
 
 ## What needs to happen
 1. You create ad units in Google AdSense
