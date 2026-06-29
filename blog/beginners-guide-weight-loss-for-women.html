@@ -708,5 +708,27 @@
 </footer>
 
 <script src="/assets/main.js?v=1"></script>
+<script>
+  const sections = document.querySelectorAll(".post-body h2[id], .post-body h3[id]");
+  const navLinks = document.querySelectorAll(".toc-list a");
+
+  window.addEventListener("scroll", () => {
+    let current = "";
+
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - 140;
+      if (window.pageYOffset >= sectionTop) {
+        current = section.getAttribute("id");
+      }
+    });
+
+    navLinks.forEach(link => {
+      link.classList.remove("active");
+      if (link.getAttribute("href") === "#" + current) {
+        link.classList.add("active");
+      }
+    });
+  });
+</script>
 </body>
 </html>
