@@ -15,6 +15,7 @@ Allow: /
 Disallow: /admin/
 Disallow: /staging/
 Disallow: /*.json$
+Disallow: /blog/post-slug.html
 
-# Sitemap location
+# S itemap location
 Sitemap: https://herbalancedbody.github.io/sitemap.xml
