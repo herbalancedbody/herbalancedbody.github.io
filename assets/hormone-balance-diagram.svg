@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="hormoneTitle hormoneDesc">
+  <title id="hormoneTitle">Hormone Balance Support Diagram</title>
+  <desc id="hormoneDesc">A simple circular diagram showing key lifestyle factors that support hormone balance for women.</desc>
+  <rect width="400" height="400" fill="#f8f5f0"/>
+  <circle cx="200" cy="200" r="140" fill="#e8dfd3" stroke="#c9b99a" stroke-width="2"/>
+  <circle cx="200" cy="200" r="80" fill="#f0ece3" stroke="#b8a88a" stroke-width="2"/>
+  <text x="200" y="205" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#5a4a3a" font-weight="bold">Hormone Balance</text>
+  <!-- Sleep -->
+  <circle cx="200" cy="95" r="28" fill="#d4e6d4" stroke="#7a9f7a" stroke-width="1.5"/>
+  <text x="200" y="100" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3a5a3a">Sleep</text>
+  <!-- Protein -->
+  <circle cx="300" cy="165" r="28" fill="#d4d4e6" stroke="#7a7a9f" stroke-width="1.5"/>
+  <text x="300" y="170" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3a3a5a">Protein</text>
+  <!-- Movement -->
+  <circle cx="285" cy="285" r="28" fill="#e6d4d4" stroke="#9f7a7a" stroke-width="1.5"/>
+  <text x="285" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5a3a3a">Movement</text>
+  <!-- Stress -->
+  <circle cx="115" cy="285" r="28" fill="#e6e6d4" stroke="#9f9f7a" stroke-width="1.5"/>
+  <text x="115" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5a5a3a">Stress</text>
+  <!-- Fiber -->
+  <circle cx="100" cy="165" r="28" fill="#d4e6e6" stroke="#7a9f9f" stroke-width="1.5"/>
+  <text x="100" y="170" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3a5a5a">Fiber</text>
+  <!-- Connection lines -->
+  <line x1="200" y1="123" x2="200" y2="137" stroke="#b8a88a" stroke-width="1"/>
+  <line x1="228" y1="180" x2="272" y2="180" stroke="#b8a88a" stroke-width="1"/>
+  <line x1="220" y1="245" x2="257" y2="257" stroke="#b8a88a" stroke-width="1"/>
+  <line x1="180" y1="245" x2="143" y2="257" stroke="#b8a88a" stroke-width="1"/>
+  <line x1="172" y1="180" x2="128" y2="180" stroke="#b8a88a" stroke-width="1"/>
+  <text x="200" y="360" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#7a6a5a">Supportive lifestyle factors for hormonal health</text>
+</svg>
