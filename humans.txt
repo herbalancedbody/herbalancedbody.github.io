@@ -1,0 +1,10 @@
+# humans.txt — Her Balanced Body
+# Purpose: simple human-readable contact and ownership note.
+# Effective: 2026-07-04
+
+Owner / maintainer: Her Balanced Body
+Purpose: Educational wellness content about hormone-aware weight loss for women.
+Contact: hello@herbalancedbody.github.io
+Repository origin: local static site managed via git; deployed to GitHub Pages at https://herbalancedbody.github.io/
+Ads.txt status: Authorized
+AdSense site status as of 2026-07-04: Needs attention — Low value content (remediation in progress)

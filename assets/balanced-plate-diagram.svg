@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#ffffff"/>
+  <circle cx="200" cy="150" r="110" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <path d="M200 40 A110 110 0 0 1 310 150 L200 150 Z" fill="#8b5a2b" opacity="0.35"/>
+  <path d="M310 150 A110 110 0 0 1 200 260 L200 150 Z" fill="#4caf50" opacity="0.35"/>
+  <path d="M200 260 A110 110 0 0 1 90 150 L200 150 Z" fill="#f4a261" opacity="0.45"/>
+  <path d="M90 150 A110 110 0 0 1 200 40 L200 150 Z" fill="#ffffff" opacity="0"/>
+  <circle cx="200" cy="150" r="110" fill="none" stroke="#333333" stroke-width="2"/>
+  <text x="200" y="148" text-anchor="middle" font-size="13" fill="#333333" font-family="Arial, sans-serif">
+    <tspan x="200" dy="0">Vegetables</tspan>
+    <tspan x="200" dy="18">Protein</tspan>
+    <tspan x="200" dy="18">Whole Grains</tspan>
+  </text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <rect width="400" height="220" fill="#ffffff"/>
+  <polyline points="0,180 50,140 100,100 150,60 200,40 250,55 300,90 350,140 400,180" fill="none" stroke="#e67e22" stroke-width="3"/>
+  <circle cx="0" cy="180" r="4" fill="#e67e22"/>
+  <circle cx="100" cy="100" r="4" fill="#e67e22"/>
+  <circle cx="200" cy="40" r="6" fill="#e67e22"/>
+  <circle cx="300" cy="90" r="4" fill="#e67e22"/>
+  <circle cx="400" cy="180" r="4" fill="#e67e22"/>
+  <text x="200" y="205" text-anchor="middle" font-size="12" fill="#333333" font-family="Arial, sans-serif">A simple daily cortisol rhythm</text>
+  <text x="30" y="172" font-size="10" fill="#555555" font-family="Arial, sans-serif">Low</text>
+  <text x="175" y="28" font-size="10" fill="#555555" font-family="Arial, sans-serif">Morning peak</text>
+  <text x="330" y="172" font-size="10" fill="#555555" font-family="Arial, sans-serif">Low</text>
+  <line x1="0" y1="180" x2="400" y2="180" stroke="#dddddd" stroke-width="1"/>
+</svg>

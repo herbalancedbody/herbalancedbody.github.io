@@ -1,0 +1,55 @@
+Her Balanced Body — Google Search Console Indexing Checklist
+Generated: 2026-06-22
+======================================================================
+
+Total URLs to index: 49
+
+ 1. https://herbalancedbody.github.io/blog/
+ 2. https://herbalancedbody.github.io/blog/category/beginner-friendly.html
+ 3. https://herbalancedbody.github.io/blog/category/emotional-eating-mindset.html
+ 4. https://herbalancedbody.github.io/blog/category/healthy-habits-metabolism.html
+ 5. https://herbalancedbody.github.io/blog/category/home-workouts.html
+ 6. https://herbalancedbody.github.io/blog/category/hormones-belly-fat.html
+ 7. https://herbalancedbody.github.io/blog/category/nutrition-deep-dives.html
+ 8. https://herbalancedbody.github.io/blog/category/sleep-and-recovery.html
+ 9. https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html
+10. https://herbalancedbody.github.io/blog/balanced-plate-method-for-women.html
+11. https://herbalancedbody.github.io/blog/why-women-struggle-to-lose-belly-fat.html
+12. https://herbalancedbody.github.io/blog/beginner-hormone-friendly-weight-loss-guide.html
+13. https://herbalancedbody.github.io/blog/beginners-guide-weight-loss-for-women.html
+14. https://herbalancedbody.github.io/blog/core-principles-of-weight-management-for-women.html
+15. https://herbalancedbody.github.io/blog/daily-stress-management-habits-for-women.html
+16. https://herbalancedbody.github.io/blog/home-workout-recovery-strategies-for-women.html
+17. https://herbalancedbody.github.io/blog/how-to-break-the-emotional-eating-cycle.html
+18. https://herbalancedbody.github.io/blog/how-to-start-weight-loss-after-40-for-women.html
+19. https://herbalancedbody.github.io/blog/metabolism-support-habits-for-women.html
+20. https://herbalancedbody.github.io/blog/mindful-eating-habits-for-women.html
+21. https://herbalancedbody.github.io/blog/optimizing-protein-intake-for-female-fat-loss.html
+22. https://herbalancedbody.github.io/blog/perimenopause-and-fat-loss-for-women.html
+23. https://herbalancedbody.github.io/blog/post-slug.html
+24. https://herbalancedbody.github.io/blog/simple-meal-prep-strategies-for-busy-women.html
+25. https://herbalancedbody.github.io/blog/sleep-and-recovery-support-for-women.html
+26. https://herbalancedbody.github.io/blog/the-microbiome-and-weight-loss-for-women.html
+27. https://herbalancedbody.github.io/blog/best-time-to-exercise-for-women-over-40.html
+28. https://herbalancedbody.github.io/blog/estrogen-dominance-and-weight-gain.html
+29. https://herbalancedbody.github.io/blog/morning-routine-for-weight-loss-for-women.html
+30. https://herbalancedbody.github.io/blog/why-not-losing-weight-eating-healthy.html
+31. https://herbalancedbody.github.io/blog/why-diets-stop-working-after-40.html
+32. https://herbalancedbody.github.io/blog/best-strength-training-after-40.html
+33. https://herbalancedbody.github.io/blog/metabolism-changes-after-40.html
+34. https://herbalancedbody.github.io/blog/how-much-protein-women-over-40-need.html
+35. https://herbalancedbody.github.io/blog/how-to-lower-cortisol-naturally.html
+36. https://herbalancedbody.github.io/blog/walking-for-weight-loss-for-women.html
+37. https://herbalancedbody.github.io/blog/perimenopause-weight-gain-explained.html
+38. https://herbalancedbody.github.io/blog/7-day-beginner-workout-plan-for-women.html
+39. https://herbalancedbody.github.io/blog/insulin-resistance-in-women-explained.html
+40. https://herbalancedbody.github.io/blog/cortisol-belly-fat-explained.html
+41. https://herbalancedbody.github.io/blog/home-workout-plan-for-women.html
+42. https://herbalancedbody.github.io/blog/weight-loss-after-40-for-women.html
+43. https://herbalancedbody.github.io/about.html
+44. https://herbalancedbody.github.io/contact.html
+45. https://herbalancedbody.github.io/privacy-policy.html
+46. https://herbalancedbody.github.io/medical-disclaimer.html
+47. https://herbalancedbody.github.io/affiliate-disclosure.html
+48. https://herbalancedbody.github.io/terms-and-conditions.html
+49. https://herbalancedbody.github.io/editorial-transparency.html
