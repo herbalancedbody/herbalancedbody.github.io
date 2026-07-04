@@ -201,14 +201,6 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <!-- Article 14 — Last modified 2026-06-19 -->
   <url>
-    <loc>https://herbalancedbody.github.io/blog/post-slug.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Article 15 — Last modified 2026-06-19 -->
-  <url>
     <loc>https://herbalancedbody.github.io/blog/simple-meal-prep-strategies-for-busy-women.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
