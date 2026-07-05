@@ -23,13 +23,6 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <priority>0.95</priority>
   </url>
 
-  <url>
-    <loc>https://herbalancedbody.github.io/lead-magnet.html</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-
   <!-- =====================================
        CATEGORY PAGES
        ===================================== -->
