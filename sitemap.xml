@@ -11,14 +11,14 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -36,56 +36,56 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/beginner-friendly.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/emotional-eating-mindset.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/healthy-habits-metabolism.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/home-workouts.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/hormones-belly-fat.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/nutrition-deep-dives.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/sleep-and-recovery.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/blog/category/weight-loss-after-40.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -357,7 +357,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/about.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.70</priority>
   </url>
@@ -371,44 +371,50 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
     <loc>https://herbalancedbody.github.io/contact.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/privacy-policy.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/medical-disclaimer.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/affiliate-disclosure.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/terms-and-conditions.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://herbalancedbody.github.io/editorial-transparency.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
+  <url>
+    <loc>https://herbalancedbody.github.io/updates.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>

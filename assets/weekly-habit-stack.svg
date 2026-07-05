@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180" role="img" aria-labelledby="habitTitle habitDesc">
+  <title id="habitTitle">Weekly Habit Stacking Timeline</title>
+  <desc id="habitDesc">A simple timeline showing how small daily habits stack across a week.</desc>
+  <rect width="500" height="180" fill="#f8f5f0"/>
+  <!-- Days -->
+  <text x="40" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Mon</text>
+  <text x="110" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Tue</text>
+  <text x="180" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Wed</text>
+  <text x="250" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Thu</text>
+  <text x="320" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Fri</text>
+  <text x="390" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Sat</text>
+  <text x="460" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a3a" font-weight="bold">Sun</text>
+  <!-- Timeline base -->
+  <line x1="30" y1="60" x2="470" y2="60" stroke="#c9b99a" stroke-width="2"/>
+  <!-- Habit 1: Walk -->
+  <rect x="35" y="70" width="12" height="12" fill="#7a9f7a" rx="2"/>
+  <text x="55" y="81" font-family="system-ui, sans-serif" font-size="10" fill="#3a5a3a">Walk</text>
+  <!-- Habit 2: Protein -->
+  <rect x="35" y="90" width="12" height="12" fill="#7a7a9f" rx="2"/>
+  <text x="55" y="101" font-family="system-ui, sans-serif" font-size="10" fill="#3a3a5a">Protein</text>
+  <!-- Habit 3: Sleep -->
+  <rect x="35" y="110" width="12" height="12" fill="#9f7a7a" rx="2"/>
+  <text x="55" y="121" font-family="system-ui, sans-serif" font-size="10" fill="#5a3a3a">Sleep</text>
+  <!-- Habit 4: Water -->
+  <rect x="35" y="130" width="12" height="12" fill="#7a9f9f" rx="2"/>
+  <text x="55" y="141" font-family="system-ui, sans-serif" font-size="10" fill="#3a5a5a">Water</text>
+  <!-- Stack indicators: cumulative checkmarks -->
+  <circle cx="65" cy="76" r="6" fill="#7a9f7a"/>
+  <circle cx="65" cy="96" r="6" fill="#7a7a9f"/>
+  <circle cx="65" cy="116" r="6" fill="#9f7a7a"/>
+  <circle cx="65" cy="136" r="6" fill="#7a9f9f"/>
+  <text x="200" y="170" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#7a6a5a">Small daily habits build sustainable weekly progress</text>
+</svg>

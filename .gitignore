@@ -1,1 +1,14 @@
 # HerBalancedBody repo
+
+# Local docs and operational notes not needed in Pages deployment
+ADSENSE-SETUP.md
+PINTEREST-OPTIMIZATION.md
+PINTEREST-STRATEGY.md
+pinterest/
+scripts/
+search-console-index-checklist.txt
+
+# Redundant/local-only image variants
+assets/optimized/
+assets/pins/
+assets/beginners-guide-weight-loss-for-women300.png
